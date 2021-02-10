@@ -1,2 +1,2 @@
 # etat
- Stand Alone Legay Technology Mod
+ Stand Alone Legacy Technology Mod
